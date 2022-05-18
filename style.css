@@ -45,3 +45,6 @@ h2{
     font-family: fantasy;
     font-size: 20px;
 }
+a{
+    text-decoration: none;
+}
